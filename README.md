@@ -34,3 +34,9 @@ git add .
 
 ```bash
 git commit -m "code updated"
+```
+
+```bash
+$ git push origin main
+```
+
