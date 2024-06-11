@@ -23,14 +23,14 @@ Conda create -n llmapp python=3.8 -y
 
 
 
-### 1. Activate the environment
+### 2. Activate the environment
 
 ```bash
 Conda activate llmapp
 ```
 
 
-### 1. install the requirements package
+### 3. install the requirements package
 
 ```bash
 pip install -r requirements.txt
@@ -56,3 +56,11 @@ $ git push origin main
 ```bash
 after creating the main.py file connect with correct environment
 ```
+
+
+### 4. run your application
+
+```bash
+streamlit run main.py
+```
+
