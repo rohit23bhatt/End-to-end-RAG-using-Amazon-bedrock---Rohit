@@ -52,3 +52,7 @@ git commit -m "code updated"
 $ git push origin main
 ```
 
+
+```bash
+after creating the main.py file connect with correct environment
+```

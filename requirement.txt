@@ -1,5 +1,6 @@
-langchain # you can also use lamaindex here
-pypdf # this is for pdf document
-streamlit # to create simple front end part of this application
-faiss-cpu # vector DB wise we use this and this specify the package name.
-boto3  # to access Amazonbedrock service 
+langchain
+pypdf 
+streamlit
+faiss-cpu
+boto3
+langchain-community
